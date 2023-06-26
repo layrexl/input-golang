@@ -14,7 +14,7 @@ func Float(text string) float64
 
         Example usage: weight := input.Float("Enter your weight: ")
 
-func Str(textF string) string
+func Str(text string) string
     Str prompts the user to enter a string and returns the string entered by the user.
 
         Example usage: name := input.Str("Enter your name: ")
