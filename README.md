@@ -23,5 +23,3 @@ func Empty()
     Empty prompts the user to enter any character and does not return any value. This function is useful when waiting for user input before exiting a console application.
 
         Example usage: input.Empty()
-
-Note: All input functions in this package should only be used in console applications and not in web applications or other types of programs.
