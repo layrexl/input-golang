@@ -1,3 +1,3 @@
-module github.com/layrexl/input-golang
+module layrexl/input-golang
 
 go 1.25.1
